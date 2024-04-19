@@ -1,0 +1,37 @@
+{
+    
+    "calculator": "计算器 ",
+    "cardSubheading":"输入当前质押的代币",
+    "cardbutton":"计算",
+    "month":"月",
+    "year":"年",
+    "years":"年",
+    "tokenhead":"您将获得的代币",
+    "bcbhead":"BCB投资 ",
+    "bcbPara":" 擁有豐富美國房地產背景的BCB投資公司目前正在進軍數位貨幣領域，這標誌著重大的戰略轉變。此次擴張涉及加密貨幣投資和質押服務，使 BCB 處於金融創新的前沿。整合數位貨幣旨在使我們的資產組合多樣化，並吸引熱衷於區塊鏈和加密貨幣潛力的新一代投資者。這種方法符合全球金融趨勢和數位資產日益增長的相關性，將傳統投資的穩定性與加密貨幣的動態回報相結合。",
+    "staking":"质押",
+    "pool":"水池",
+    "Personal":"个人的",
+    "Reward-Pool":"奖励池：APY 为 ",
+    "Stakers":" 质押者",
+    "Staked":"押注的",
+    "Rewards-claimed":"收到的奖励",
+    "My-Balance":"我的余额",
+    "amount":"输入投注金额",
+    "BCB-tokens":"最低 BCB 代币",
+    "bstake":"赌注",
+    "serial":"序列号",
+    "start-time":" 开始时间",
+    "end-time":"时间结束",
+    "token-amount":"USDT数量    ",
+    "action":"行动",
+    "Pending-Rewards":"待奖励 USDT",
+    "Refer":" 您的推荐链接",
+    "buycrc":"购买CRC",
+    "price":"在价格上涨之前立即购买 CRC！",
+    "pay":"使用 ETH 支付",
+    "value":"CRC 值",
+    "buytoken":"购买代币"
+    
+
+}

@@ -1,0 +1,38 @@
+{
+    
+    "calculator": "Calculadora",
+    "cardSubheading":"Escriba los tokens apostados actuales",
+    "cardbutton":"Calcular",
+    "month":"mes",
+    "year":"Año",
+    "years":"Años",
+    "tokenhead":"Fichas que obtendrás",
+    "bcbhead":"Inversión BCB",
+    "bcbPara":"BCB Investment Company, con su amplia experiencia en el sector inmobiliario de EE. UU., ahora es pionera en el uso de monedas digitales, lo que marca un cambio estratégico significativo. Esta expansión implica adoptar inversiones en criptomonedas y servicios de participación, lo que coloca al BCB a la vanguardia de la innovación financiera. La integración de monedas digitales tiene como objetivo diversificar nuestra cartera de activos y atraer a una nueva generación de inversores interesados ​​en el potencial de blockchain y cripto. Este enfoque se alinea con las tendencias financieras globales y la creciente relevancia de los activos digitales, combinando la estabilidad de la inversión tradicional con los rendimientos dinámicos de las criptomonedas.",
+    "staking":"Replantear",
+    "pool":"Piscina",
+    "Personal":"Personal",
+    "Reward-Pool":"Fondo de recompensas: APY es 49%",
+    "Stakers":"apostadores",
+    "Staked":"Apostado",
+    "Rewards-claimed":"Recompensas reclamadas",
+    "My-Balance":"Mi balance",
+    "amount":"Ingrese el monto a apostar",
+    "BCB-tokens":"Fichas BCB mínimas",
+    "bstake":"Apostar",
+    "serial":"Número de serie",
+    "start-time":"Hora de inicio",
+    "end-time":"Hora de finalización",
+    "token-amount":"Monto del token",
+    "action":"Comportamiento",
+    "Pending-Rewards":"Recompensas pendientes",
+    "Refer":"Su enlace de referencia",
+    "buycrc":"Comprar CRC",
+    "price":"¡COMPRE CRC AHORA ANTES DE QUE EL PRECIO AUMENTE!",
+    "pay":"Paga con ETH",
+    "value":"Valor CRC",
+    "buytoken":"Comprar ficha"
+    
+
+
+}

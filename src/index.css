@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,400;0,500;0,700;0,900;1,400;1,500;1,700;1,900&display=swap');
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Roboto';
+  background-color: black;
+}
+
+@keyframes shadowAni {
+  0% {
+    box-shadow: 0 0 5px #A06742;
+  }
+
+  50% {
+    box-shadow: 0 0 25px #A06742;
+  }
+
+  100% {
+    box-shadow: 0 0 5px #A06742
+  }
+}
+
+.cardShadow {
+  animation: shadowAni 3000ms infinite;
+}
+
+
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.3);
+  z-index: 9; 
+}
+
+
+
+.gradient-border {
+  border: 2px solid;
+  border-image: linear-gradient(to right, #A06742, #EABCAC) 1;
+  border-radius: 3rem;
+}
+
+.gradient-text {
+  background-image: linear-gradient(to right, #A06742, #EABCAC);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
