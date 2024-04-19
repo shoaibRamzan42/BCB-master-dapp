@@ -64,7 +64,7 @@ const Buy = () => {
                                         USDT
                                     </h2>
                                 </button>
-                                <div className='h-[40px] p-2 rounded-[8px] cursor-pointer flex justify-center items-center border-[#A06742] bg-transparent border gap-[8px] focus:bg-[#A06742] focus:border-white'
+                                <button className='h-[40px] p-2 rounded-[8px] cursor-pointer flex justify-center items-center border-[#A06742] bg-transparent border gap-[8px] focus:bg-[#A06742] focus:border-white'
                                    
                                     
                                 >
@@ -72,7 +72,7 @@ const Buy = () => {
                                     <h2 className='text-[#F2F2F2] font-bold text-[16px]'>
                                         USDC
                                     </h2>
-                                </div>
+                                </button>
                             </div>
                             <div className='grid grid-cols-1 md:grid-cols-2 gap-[24px] mt-8'>
 
