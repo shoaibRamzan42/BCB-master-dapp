@@ -29,7 +29,8 @@
     "Refer":"あなたの紹介リンク",
     "buycrc":"CRCを購入する",
     "price":"値上げの前に今すぐ CRC を購入してください!",
-    "pay":"ETHで支払う",
+    "pay":"USDTで支払う",
     "value":"CRC値",
-    "buytoken":"トークンを購入する"
+    "buytoken":"トークンを購入する",
+    "purchase":"あなたの購入した "
 }

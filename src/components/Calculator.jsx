@@ -35,7 +35,7 @@ const Calculator = () => {
 
 
       <div
-        style={{ background: 'linear-gradient(96deg, #A06742 30.48%, #EABCAC 110.85%)' }} className="   text-left w-full md:w-[70%] xl:w-[42%] lg:h-[660px] xl:h-[550px] h-auto px-4 py-4  lg:py-12 lg:px-8 border border-white  rounded-[20px]   ">
+        style={{ background: 'linear-gradient(96deg, #A06742 30.48%, #EABCAC 110.85%)' }} className="   text-left w-full md:w-[70%] xl:w-[42%]  h-auto px-4 py-4  lg:py-12 lg:px-8 border border-white  rounded-[20px]   ">
         <h1 className="font-custom   text-[30px]  md:text-[40px] font-extrabold text-white">
           {t('bcbhead', 'BCB Investment')}
 
@@ -47,7 +47,7 @@ const Calculator = () => {
 
 
 
-      <div className=" px-8    bg-transparent py-12 w-full md:w-[70%] xl:w-[40%] h-auto lg:h-[660px] xl:h-[550px] rounded-[20px] border border-[#A06742] flex flex-col justify-center items-center gap-9 ">
+      <div className=" px-8    bg-transparent py-12 w-full md:w-[70%] xl:w-[40%] h-auto  rounded-[20px] border border-[#A06742] flex flex-col justify-center items-center gap-9 ">
         <div className="flex flex-col justify-center items-center gap-4 ">
           <h1 style={{
             background: 'linear-gradient(96deg, #A06742 33.48%, #EABCAC 100.85%)',

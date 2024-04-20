@@ -29,8 +29,9 @@
     "Refer":"Your Refferal link",
     "buycrc":"Buy CRC",
     "price":"BUY CRC NOW BEFORE PRICE INCREASE!",
-    "pay":"Pay with ETH",
+    "pay":"Pay with USDT",
     "value":"CRC value",
-    "buytoken":"Buy Token"
+    "buytoken":"Buy Token",
+    "purchase":"your Purchased "
 
 }

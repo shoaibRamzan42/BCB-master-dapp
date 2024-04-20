@@ -29,8 +29,9 @@
     "Refer":"귀하의 추천 링크",
     "buycrc":"CRC 구매",
     "price":"가격이 인상되기 전에 지금 CRC를 구매하세요!",
-    "pay":"ETH로 결제",
+    "pay":"USDT로 결제",
     "value":"CRC 값",
-    "buytoken":"토큰 구매"
+    "buytoken":"토큰 구매",
+    "purchase":"귀하가 구매한 "
 
 }

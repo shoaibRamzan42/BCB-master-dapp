@@ -29,9 +29,10 @@
     "Refer":" 您的推荐链接",
     "buycrc":"购买CRC",
     "price":"在价格上涨之前立即购买 CRC！",
-    "pay":"使用 ETH 支付",
+    "pay":"使用 USDT 支付",
     "value":"CRC 值",
-    "buytoken":"购买代币"
+    "buytoken":"购买代币",
+    "purchase":"您购买的 "
     
 
 }
