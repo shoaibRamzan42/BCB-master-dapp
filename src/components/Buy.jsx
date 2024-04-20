@@ -5,13 +5,23 @@ import tether from "../assets/tether.svg"
 import usd from "../assets/usd.svg"
 import icon from "../assets/icon.png"
 import { useTranslation } from "react-i18next";
+import { motion } from "framer-motion"
+
 const Buy = () => {
 
     const { t } = useTranslation();
   return (
     <>
       <Navbar />
+     
       <h1 className="gradient-text mt-28 text-center text-[48px] font-semibold">{t("buycrc", "Buy CRC")}</h1>
+      <motion.div
+            initial={{ y: "50%", opacity: 0 }}
+            // viewport={{ once :true,}}
+            transition={{ duration: 1.5, ease: "easeInOut" }}
+            whileInView={{ y: 0, opacity: 1 }}
+            className=""
+          >
       <div className="border-[3px]  bg-transparent border-[#A06742]  gap-4 mb-8 h-auto rounded-xl  items-center mt-4 mx-auto w-[90%] md:w-[23rem] p-4">
       
         <h1 className="text-[#BDBDBD] pt-2 font-medium  text-center">
@@ -127,6 +137,7 @@ const Buy = () => {
           </button>
 
       </div>
+      </motion.div>
     </>
   );
 };
