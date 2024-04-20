@@ -83,14 +83,14 @@ const Calculator = () => {
           <button
             onClick={() => handleClick()}
             style={{ background: 'linear-gradient(96deg, #A06742 30.48%, #EABCAC 110.85%)' }
-            } className=" md:w-[215%] text-white w-[145%] h-[55px] md:h-[58px]
+            } className=" md:w-[168%] text-white w-[145%] h-[55px] md:h-[58px]
        rounded-full flex   items-center justify-center font-myfont text-[20px] md:text-[24px] leading-[28px]">
             {t('cardbutton', 'Calculate')}
           </button>
           <h1 className="font-custom text-[16px] leading-[24px] text-[#FFFFFF96] text-center ">
             {t('tokenhead', 'Tokens you will get')}
           </h1>
-          <h5 className="md:w-[215%]  w-[145%] h-[60px] border border-[#a06742] flex items-center justify-center   bg-transparent rounded-[14px] text-center text-white md:text-[32px] text-[28px] font-myfont">
+          <h5 className="md:w-[168%]  w-[145%] h-[60px] border border-[#a06742] flex items-center justify-center   bg-transparent rounded-[14px] text-center text-white md:text-[32px] text-[28px] font-myfont">
             {totalValue}
           </h5>
         </div>
