@@ -75,6 +75,8 @@ const App = () => {
   var contractaddress = "0x01081A86Bd237267F71dAaC819ecaDEb9Db4E52B"; // Contract Address
   var contractaddress_token = "0xe4177C1400A8Eee1799835DcDe2489c6f0D5d616"; //Abi
 
+
+  //please add ABI in a separate file
   var abi_token = [
     { inputs: [], stateMutability: "nonpayable", type: "constructor" },
     {
