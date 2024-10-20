@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import Nav from "./components/Nav";
 import { motion } from "framer-motion";
 import logo from "../src/assets/whitelogo2.svg";
-//yak developer
+
 import Table from "./components/Table";
 import { ColorRing } from "react-loader-spinner";
 import {
